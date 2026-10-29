@@ -17,10 +17,3 @@ Love Game is a free HTML5 / browser game site for couples and friends. Pick a lo
 ---
 
 Contact: [play@love-game.org](mailto:play@love-game.org)
-
-
-
-
-
-
-
